@@ -1,6 +1,6 @@
 cask "vervain" do
   version "1.0.0"
-  sha256 "600c7c0bf55f4ee378ebccbeadc0a5264ba01260eec49089a69fe10c63039539"
+  sha256 "29c6975a44e58690722f8e6142a7f84c3a4f55ac8f07abd9545badd0c43d8311"
 
   url "https://github.com/yakupbulbul/Vervain/releases/download/v#{version}/Vervain-#{version}.dmg"
   name "Vervain"
